@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ND2+Uwm4/FHD0Ntmz4fKutioGpHq5yQ6GRzVtTSQ2cwc4Fio2yzsuj3f9cuEbgETln1BoO5KugRsc/r4Sujz0w==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\DogsAndPeople\\DogsAndPeople.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}

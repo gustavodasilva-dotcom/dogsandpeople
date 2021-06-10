@@ -1,0 +1,11 @@
+C:\workspace\DogsAndPeople\bin\Debug\net461\DogsAndPeople.exe.config
+C:\workspace\DogsAndPeople\bin\Debug\net461\DogsAndPeople.exe
+C:\workspace\DogsAndPeople\bin\Debug\net461\DogsAndPeople.pdb
+C:\workspace\DogsAndPeople\obj\Debug\net461\DogsAndPeople.csproj.AssemblyReference.cache
+C:\workspace\DogsAndPeople\obj\Debug\net461\DogsAndPeople.AssemblyInfoInputs.cache
+C:\workspace\DogsAndPeople\obj\Debug\net461\DogsAndPeople.AssemblyInfo.cs
+C:\workspace\DogsAndPeople\obj\Debug\net461\DogsAndPeople.csproj.CoreCompileInputs.cache
+C:\workspace\DogsAndPeople\obj\Debug\net461\DogsAndPeople.exe
+C:\workspace\DogsAndPeople\obj\Debug\net461\DogsAndPeople.pdb
+C:\workspace\DogsAndPeople\bin\Debug\net461\System.Data.SqlClient.dll
+C:\workspace\DogsAndPeople\obj\Debug\net461\DogsAndPeople.csproj.CopyComplete
